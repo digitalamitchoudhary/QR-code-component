@@ -51,5 +51,5 @@ This project was built as a warm-up exercise before starting more challenging fr
 
 ## 👨‍💻 Author
 
-- GitHub: https://github.com/your-username
-- Frontend Mentor: https://www.frontendmentor.io/profile/your-username
+- GitHub: https://github.com/digitalamitchoudhary/QR-code-component
+- Frontend Mentor:[ https://www.frontendmentor.io/profile/digitalamitchoudhary](https://www.frontendmentor.io/profile/digitalamitchoudhary)
